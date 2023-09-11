@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Kirill Chapchikov.
-- 👀 I’m interested in getting a job =)
-- 🌱 I’m currently learning Python.
 - 📫 You can reach me by email: k.chapchikov@gmail.com
 
 <!---
